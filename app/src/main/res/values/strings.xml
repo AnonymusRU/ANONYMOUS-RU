@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnonimousRU</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="label_cardapio">Cardápio</string>
+    <string name="title_activity_cardapio">CardapioActivity</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eduardo\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.7.3\92568d7167ce1bf9eb1fd815b022d5a2c113547a\jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a">
+        <dex dex="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\jsoup-1.7.3-5cb75767d37086e1e0b60bfd0f7049501f284a6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1f9b9c5126ddf9c03e295f4d062110018403572f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-dc96c2d013877cdbdef40a366632272e51dc13d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\classes-d74cdba51e2daeba4960e4f5a89f8d9a47aa50b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\classes-c855825011a0bfdcd497ae59497eb07b8ff6b732.jar" />
+    </item>
+
+</items>

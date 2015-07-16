@@ -1,0 +1,6 @@
+C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\classes\debug
+C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1f9b9c5126ddf9c03e295f4d062110018403572f.jar
+C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-dc96c2d013877cdbdef40a366632272e51dc13d4.jar
+C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\jsoup-1.7.3-5cb75767d37086e1e0b60bfd0f7049501f284a6a.jar
+C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\classes-d74cdba51e2daeba4960e4f5a89f8d9a47aa50b5.jar
+C:\Users\Eduardo\Documents\ProjetosAndroidStudio\Estudo\AnonimousRU\app\build\intermediates\pre-dexed\debug\classes-c855825011a0bfdcd497ae59497eb07b8ff6b732.jar
