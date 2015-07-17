@@ -22,6 +22,14 @@
             android:name=".CardapioActivity"
             android:label="@string/title_activity_cardapio" >
         </activity>
+        <activity
+            android:name=".ChatActivity"
+            android:label="@string/title_activity_chat" >
+        </activity>
+        <activity
+            android:name=".MensageActivity"
+            android:label="@string/title_activity_mensage" >
+        </activity>
     </application>
 
 </manifest>

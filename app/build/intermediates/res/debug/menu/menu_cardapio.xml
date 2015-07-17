@@ -5,4 +5,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/C:/Users/Eduardo/Documents/ProjetosAndroidStudio/Estudo/AnonimousRU/app/src/main/res/menu/menu_cardapio.xml -->
+<!-- From: file:/D:/DEVELOPER/Projetos/Android/ANONYMOUS-RU/app/src/main/res/menu/menu_cardapio.xml -->

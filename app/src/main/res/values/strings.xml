@@ -7,5 +7,7 @@
     <string name="title_activity_teste">Teste</string>
     <string name="label_cardapio">Cardápio</string>
     <string name="title_activity_cardapio">CardapioActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_mensage">MensageActivity</string>
 
 </resources>

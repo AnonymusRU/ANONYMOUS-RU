@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.anonimousru.thebest.anonimousru.test">
+    package="com.anonymousru.thebestdevelopers.anonymousru.test">
 
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.anonimousru.thebest.anonimousru"
+                     android:targetPackage="com.anonymousru.thebestdevelopers.anonymousru"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.anonimousru.thebest.anonimousru"/>
+                     android:label="Tests for com.anonymousru.thebestdevelopers.anonymousru"/>
 </manifest>

@@ -28,6 +28,10 @@
             android:name="com.anonymousru.thebestdevelopers.anonymousru.CardapioActivity"
             android:label="@string/title_activity_cardapio" >
         </activity>
+        <activity
+            android:name="com.anonymousru.thebestdevelopers.anonymousru.ChatActivity"
+            android:label="@string/title_activity_chat" >
+        </activity>
     </application>
 
 </manifest>
